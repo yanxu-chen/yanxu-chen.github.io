@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
+* Ph.D in Physical Oceanography, Laboratoire de Météorologie Dynamique, Ecole Normale Supérieure, France, 2022
+* M.S. in Atmospheric and Oceanic Sciences, McGill University, Canada, 2019
+* B.S. in Marine Sciences, Sun Yat-Sen University, China, 2016
+* 
 Work experience
 ======
 * Summer 2015: Research Assistant
