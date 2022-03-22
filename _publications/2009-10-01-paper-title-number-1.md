@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Interaction of Nonlinear Ekman Pumping, Near-Inertial Oscillations, and Geostrophic Turbulence in an Idealized Coupled Model"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
