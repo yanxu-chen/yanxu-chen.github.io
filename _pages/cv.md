@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,10 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Physical Oceanography, Laboratoire de Météorologie Dynamique, Ecole Normale Supérieure, France, 2022
-* M.S. in Atmospheric and Oceanic Sciences, McGill University, Canada, 2019
-* B.S. in Marine Sciences, Sun Yat-Sen University, China, 2016
-* 
+* Ph.D in Sciences de l'Environnement, Laboratoire de Météorologie Dynamique, Ecole Normale Supérieure, France, 2022
+  Advisors: Sabrina Speich and Laurent Bopp
+* M.Sc. in Atmospheric and Oceanic Sciences, McGill University, Canada, 2019
+  Advisors: David Straub and Louis-Philippe Nadeau
+* B.Sc. in Marine Sciences, Sun Yat-Sen University, China, 2016
+
 Work experience
 ======
 * Summer 2015: Research Assistant
