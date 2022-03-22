@@ -8,7 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi there, my name is Yanxu (妍旭)
+Hi there, 
+
+My name is Yanxu (妍旭) and I study ocean physics in general (maybe a bit metaphysics too). The spectrum of my curiosity is wide, but in specific, I try to understand the (sub)mesoscale characteristics of the upper ocean and their dynamical impacts on general ocean circulation and big-picture climate change etc. Considering the two components (wind-driven and thermohaline) of ocean circulation, you can find my MSc research study of the former related to nonlinear Ekman theory (and its interaction with near-inertial waves), and PhD work of the latter towards the correlation between mode waters and mesoscale eddies. Details are shown in the [research page](https://yanxu-chen.github.io/research) and definitely more in our [papers](https://yanxu-chen.github.io/publications). 
+
+
+
+
+
+
 
 I use both observations and modeling to study the physical questions that arouse my curiosity, which, to interpret in another way, have trained me into a Kant (the philosopher). But by nature (or some unknown reason), I see myself as a piece of material that highly resonates with Mr. Nietzsche. In other words, I am more ambitious in art than in science. As I understand, the job of physicists is to drag physics from the pool of metaphysics, referring the latter to be a premise for the former. Whereas in the field of art, everything is more complicated. People usually associate art to sentiments. However, I am not a fan of this idea. I always find “metaphysics” and “subjectivity” two fascinating notions in philosophy. Then, similar to rationality in physical science, I think to express sentiments in art is the tool/representation of metaphysics.  
 
@@ -26,9 +34,6 @@ Getting started
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 Create content & metadata
 ------
