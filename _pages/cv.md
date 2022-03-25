@@ -13,11 +13,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Sciences de l'Environnement, Laboratoire de Météorologie Dynamique, Ecole Normale Supérieure, France, 2022
-  Advisors: Sabrina Speich and Laurent Bopp
-* M.Sc. in Atmospheric and Oceanic Sciences, McGill University, Canada, 2019
-  Advisors: David Straub and Louis-Philippe Nadeau
-* B.Sc. in Marine Sciences, Sun Yat-Sen University, China, 2016
+* Ph.D in Dynamics and Physics of the Atmosphere and Ocean
+  * Laboratoire de Météorologie Dynamique, Ecole Normale Supérieure, Paris 
+  * Advisors: Sabrina Speich and Laurent Bopp
+  * Expected graduation in summer 2022
+* M.Sc. in Atmospheric and Oceanic Sciences
+  * Department of Atmospheric and Oceanic Sciences, McGill University, Montréal
+  * Advisors: David Straub and Louis-Philippe Nadeau
+  * Degree obtained in spring 2019
+* B.Sc. in Marine Sciences
+  * School of Marine Sciences, Sun Yat-sen University, Guangzhou
+  * Degree obtained in summer 2016
 
 Work experience
 ======
