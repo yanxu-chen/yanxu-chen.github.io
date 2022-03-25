@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here](http://yanxu-chen.github.io/files/Chen2021_1.pdf)
+
 Education
 ======
 * Ph.D in Sciences de l'Environnement, Laboratoire de Météorologie Dynamique, Ecole Normale Supérieure, France, 2022
