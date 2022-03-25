@@ -63,7 +63,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Main presentations
+Presentations
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -71,11 +71,11 @@ Main presentations
   
 Teaching experiences
 ======
-* Introduction to oceanic sciences (McGill, Winter 2018)
+* Introduction to Oceanic Sciences (McGill, Winter 2018)
   * Instructor: Carolina Dufour
 
-* Natural disasters (McGill, Fall 2017)
-  * Instructor: John Gyakum and Souad Guernina
+* Natural Disasters (McGill, Fall 2017)
+  * Instructors: John Gyakum and Souad Guernina
  
 * Pearl River Delta Field Trip (SYSU, Fall 2015)
   * Instructor: Yaping Lei
