@@ -2,20 +2,17 @@
 main:
  
   - title: "Research"
-    url: /research/  
+    url: /portfolio/  
   
   - title: "Publications"
     url: /publications/
 
-  - title: "Presentations"
-    url: /talks/    
-
   - title: "CV"
     url: /cv/
     
-  - title: "Philo"
-    url: /portfolio/
+  - title: "Philosophy"
+    url: /talks/
         
-  - title: "Mis"
+  - title: "Music"
     url: /year-archive/
     
