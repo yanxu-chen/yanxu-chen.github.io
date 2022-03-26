@@ -9,7 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-fderyujg
-
-
-<audio ref='themeSong' src="https://github.com/yanxu-chen/yanxu-chen.github.io/tree/master/media/Jiukuang_2021.mp3" autoPlay loop></audio>
+<audio ref='themeSong' src="https://raw.githubusercontent.com/yanxu-chen/yanxu-chen.github.io/tree/master/media/Jiukuang_2021.mp3" autoPlay loop></audio>
