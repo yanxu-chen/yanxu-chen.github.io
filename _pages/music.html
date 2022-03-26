@@ -9,11 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-<script>
-function play() {
-  var audio = new Audio('https://raw.githubusercontent.com/yanxu-chen/yanxu-chen.github.io/media/Jiukuang_2021.mp3');
-  audio.play();
-}
-</script>
-<button onclick-"play();">PLAY MY AUDIO</button>
-
+<html>
+ <body>
+   <audio src="https://raw.githubusercontent.com/yanxu-chen/yanxu-chen.github.io/media/Jiukuang_2021.mp3" id="myAudio"></audio>
+   <button onClick="playMyAudio()">Play Audio</button>
+   <script>
+     function playMyAudio(){
+       document.getElementById("myAudio").play();
+     }
+   </script>
+ </body>
+</html>
