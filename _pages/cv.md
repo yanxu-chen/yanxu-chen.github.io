@@ -56,27 +56,16 @@ Research experiences
   * Undergraduate research assistant
   * Advisor: Jiaxue Wu
   * Workload: Analysis of turbulence characteristics within the bottom boundary layer of the Pearl River Estuary. 
-   
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+     
 Presentations
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching experiences
+Publications
 ======
-* Introduction to Oceanic Sciences (McGill, Winter 2018)
-  * Instructor: Carolina Dufour
-
-* Natural Disasters (McGill, Fall 2017)
-  * Instructors: John Gyakum and Souad Guernina
- 
-* Pearl River Delta Field Trip (SYSU, Fall 2015)
-  * Instructor: Yaping Lei
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
