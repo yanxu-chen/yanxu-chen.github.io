@@ -9,7 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-<script>
-var audio = new Audio("https://raw.githubusercontent.com/yanxu-chen/yanxu-chen.github.io/media/Jiukuang_2021.mp3")
-audio.play()
-</script>
+
+    <script>
+      function play() {
+        var audio = document.getElementById("audio");
+        audio.play();
+      }
+    </script>
+
+    <input type="button" value="PLAY" onclick="play()">
+    <audio id="audio" src="https://raw.githubusercontent.com/yanxu-chen/yanxu-chen.github.io/media/Jiukuang_2021.mp3"></audio>
+
+
