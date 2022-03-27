@@ -9,12 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+I play Guqin, which is a seven-string instrument. 
 
-![Editing a markdown file for a talk](http://yanxu-chen.github.io/images/Qin.JPG)
+![Editing](http://yanxu-chen.github.io/images/Qin.JPG | width=100)
 
-Education
+Some pieces
 ======
 1. 酒狂(Drunken Ecstasy)
 <html>
