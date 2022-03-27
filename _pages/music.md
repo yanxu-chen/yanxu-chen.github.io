@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I play Guqin, which is a seven-string instrument. 
+I play Guqin on a daily basis, which is a seven-string instrument that has a history of 3000 years. 
 
 <img src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/images/Qin.JPG" width="500" height="300">
 
