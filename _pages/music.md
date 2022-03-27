@@ -17,8 +17,8 @@ Some pieces
 ======
 * 酒狂(Drunken Ecstasy)
   * Not sure about the translation of such name, but I like it. Sometimes we make jokes that from a player's music, you will know what alcohol he/she drank. 
-  <html>
-   <body>
+
+
     <audio id="myAudio" autoplay loop>
     <source src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/media/Jiukuang_2021.mp3" type="audio/mpeg">
     This HTML5 player is not supported by your browser
@@ -34,8 +34,6 @@ Some pieces
      }
     }
     </script>
-   </body>
-  </html>
 
 
 
