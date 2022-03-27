@@ -11,7 +11,7 @@ redirect_from:
 
 I play Guqin, which is a seven-string instrument. 
 
-<img src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/images/Qin.JPG" width="400" height="240">
+<img src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/images/Qin.JPG" width="500" height="300">
 
 Some pieces
 ======
