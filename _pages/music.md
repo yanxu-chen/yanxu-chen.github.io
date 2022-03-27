@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I play Guqin on a daily basis, which is a seven-string instrument that has a history of 3000 years. 
+I play Guqin on a daily basis, which is a seven-string Chinese instrument that has a history of about 3000 years. Traditionally, people play it outdors in a mountain setting, a garden or a small pavilion. A serene moonlit night is considered an appropriate time for performance. 
 
 <img src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/images/Qin.JPG" width="500" height="300">
 
