@@ -29,7 +29,19 @@ Some pieces
     else {myAudio.pause();}}
 </script>
 
+* 酒狂(Drunken Ecstasy)
+  * Not sure about the translation of such name, but I like it. Sometimes we make jokes that from a player's music, you will know what alcohol he/she drank. 
 
+<audio id="myAudio" loop>
+    <source src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/media/Jiukuang_2021.mp3" type="audio/mpeg">
+    This HTML5 player is not supported by your browser
+</audio>
+<button type="button" onclick="aud_play_pause()">Play/Pause</button>
+<script>
+    function aud_play_pause() {var myAudio = document.getElementById("myAudio");
+    if (myAudio.paused) {myAudio.play();} 
+    else {myAudio.pause();}}
+</script>
 
 
 
