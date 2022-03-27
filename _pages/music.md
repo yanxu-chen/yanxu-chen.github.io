@@ -15,10 +15,8 @@ I play Guqin on a daily basis, which is a seven-string Chinese instrument that h
 
 Some pieces
 ======
-1. 酒狂(Drunken Ecstasy)
-Not sure about the translation of such name, but I like it. Sometimes we make jokes that from a player's music, you will know what alcohol he/she drank. 
-
-<html>
+* 酒狂(Drunken Ecstasy)
+ <html>
  <body>
   <audio id="myAudio" autoplay loop>
   <source src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/media/Jiukuang_2021.mp3" type="audio/mpeg">
@@ -37,6 +35,8 @@ Not sure about the translation of such name, but I like it. Sometimes we make jo
   </script>
  </body>
 </html>
+  * Not sure about the translation of such name, but I like it. Sometimes we make jokes that from a player's music, you will know what alcohol he/she drank. 
+
 
 
 
