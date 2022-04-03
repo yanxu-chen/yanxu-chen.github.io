@@ -14,44 +14,28 @@ I play Guqin on a daily basis, which is a seven-string Chinese instrument that h
 <img src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/images/Qin.JPG" width="440" height="280">
 
 Some pieces
-======
+======  
+* 酒狂 (Drunken Ecstasy)
+  * Not sure about the translation of such name, but I like it. Sometimes we make jokes that from a player's music, you will know what alcohol he/she drank. 
 
   <body>
-    <h1>Below is an audio player that will play in all modern browsers</h1>
-
     <audio controls>
-      <source src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/media/Jiukuang_2021.mp3" type="audio/mp3">
       <source src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/media/Jiukuang_2021.mp3" type="audio/mp3">
       <p>Your browser doesn't support HTML5 audio. Here is a <a href="viper.mp3">link to the audio</a> instead.</p> 
     </audio>
   </body>
   
-  
-* 酒狂 (Drunken Ecstasy)
-  * Not sure about the translation of such name, but I like it. Sometimes we make jokes that from a player's music, you will know what alcohol he/she drank. 
-
-<audio id="myAudio" loop>
-    <source src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/media/Jiukuang_2021.mp3" type="audio/mpeg">
-</audio>
-<button type="button" onclick="aud_play_pause()">Play/Pause</button>
-<script>
-    function aud_play_pause() {var myAudio = document.getElementById("myAudio");
-    if (myAudio.paused) {myAudio.play();} 
-    else {myAudio.pause();}}
-</script>
-
 * 關山月 (Moon over a Mountain Pass)
   * This short piece was composed after a poem of Li Bai (a romantic poet from the Tang Dynasty) that describes the emotions of soldies at the frontier fortress by depicting the scenery.
 
-<audio id="myAudio2" loop>
-    <source src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/media/Guanshanyue_2022.mp3" type="audio/mpeg">
-</audio>
-<button type="button" onclick="aud_play_pause()">Play/Pause</button>
-<script>
-    function aud_play_pause() {var myAudio2 = document.getElementById("myAudio2");
-    if (myAudio2.paused) {myAudio2.play();} 
-    else {myAudio2.pause();}}
-</script>
+  <body>
+    <audio controls>
+      <source src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/media/Guanshanyue_2022.mp3" type="audio/mp3">
+      <p>Your browser doesn't support HTML5 audio. Here is a <a href="viper.mp3">link to the audio</a> instead.</p> 
+    </audio>
+  </body>
+  
+
 
 
 
