@@ -15,7 +15,7 @@ I play Guqin on a daily basis, which is a seven-string Chinese instrument that h
 
 Some pieces
 ======
-* 酒狂(Drunken Ecstasy)
+* 酒狂 (Drunken Ecstasy)
   * Not sure about the translation of such name, but I like it. Sometimes we make jokes that from a player's music, you will know what alcohol he/she drank. 
 
 <audio id="myAudio" loop>
@@ -29,11 +29,11 @@ Some pieces
     else {myAudio.pause();}}
 </script>
 
-* 酒狂(Drunken Ecstasy)
-  * Not sure about the translation of such name, but I like it. Sometimes we make jokes that from a player's music, you will know what alcohol he/she drank. 
+* 關山月 (Moon over a Mountain Pass)
+  * This short piece was composed after a poem of Li Bai (a romantic poet from the Tang Dynasty) that describes the emotions of soldies at the frontier fortress by depicting the scenery.
 
 <audio id="myAudio" loop>
-    <source src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/media/Jiukuang_2021.mp3" type="audio/mpeg">
+    <source src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/media/Guanshanyue_2022.mp3" type="audio/mpeg">
     This HTML5 player is not supported by your browser
 </audio>
 <button type="button" onclick="aud_play_pause()">Play/Pause</button>
