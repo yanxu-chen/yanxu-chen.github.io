@@ -26,7 +26,7 @@ Some pieces
   </body>
   
 * 關山月 (Moon over a Mountain Pass)
-  * This short piece was composed after a poem of Li Bai (a romantic poet from the Tang Dynasty) that describes the emotions of soldies at the frontier fortress by depicting the scenery.
+  * This short piece was composed after a poem of Li Bai (a romantic poet at the Tang Dynasty) that describes the emotions of soldies at the frontier fortress by depicting such scenery.
 
   <body>
     <audio controls>
