@@ -35,7 +35,16 @@ Some pieces
     </audio>
   </body>
   
+* Jingle Bell
+  * Recorded in December 2021.
 
+  <body>
+    <audio controls>
+      <source src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/media/Jinglebell_2021.mp3" type="audio/mp3">
+      <p>Your browser doesn't support HTML5 audio. Here is a <a href="viper.mp3">link to the audio</a> instead.</p> 
+    </audio>
+  </body>
+  
 
 
 
