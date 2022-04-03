@@ -11,7 +11,7 @@ redirect_from:
 
 I play Guqin on a daily basis, which is a seven-string Chinese instrument that has a history of about 3000 years. Traditionally, people play it outdoors in a mountain setting, a garden or a small pavilion. A serene moonlit night is considered an appropriate time for performance. 
 
-<img src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/images/Qin.JPG" width="440" height="280">
+<img src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/images/Guqin" width="440" height="280">
 
 Some pieces
 ======  
