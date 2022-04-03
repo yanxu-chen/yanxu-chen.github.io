@@ -32,15 +32,15 @@ Some pieces
 * 關山月 (Moon over a Mountain Pass)
   * This short piece was composed after a poem of Li Bai (a romantic poet from the Tang Dynasty) that describes the emotions of soldies at the frontier fortress by depicting the scenery.
 
-<audio id="myAudio" loop>
+<audio id="myAudio2" loop>
     <source src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/media/Guanshanyue_2022.mp3" type="audio/mpeg">
     This HTML5 player is not supported by your browser
 </audio>
 <button type="button" onclick="aud_play_pause()">Play/Pause</button>
 <script>
-    function aud_play_pause() {var myAudio = document.getElementById("myAudio");
-    if (myAudio.paused) {myAudio.play();} 
-    else {myAudio.pause();}}
+    function aud_play_pause() {var myAudio2 = document.getElementById("myAudio2");
+    if (myAudio2.paused) {myAudio2.play();} 
+    else {myAudio2.pause();}}
 </script>
 
 
