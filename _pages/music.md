@@ -20,7 +20,6 @@ Some pieces
 
 <audio id="myAudio" loop>
     <source src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/media/Jiukuang_2021.mp3" type="audio/mpeg">
-    This HTML5 player is not supported by your browser
 </audio>
 <button type="button" onclick="aud_play_pause()">Play/Pause</button>
 <script>
@@ -34,7 +33,6 @@ Some pieces
 
 <audio id="myAudio2" loop>
     <source src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/media/Guanshanyue_2022.mp3" type="audio/mpeg">
-    This HTML5 player is not supported by your browser
 </audio>
 <button type="button" onclick="aud_play_pause()">Play/Pause</button>
 <script>
