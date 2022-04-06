@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Mixed layer depth and mode water detectioon
+Mixed layer depth and mode water detection
 ======
 
 <img src="http://yanxu-chen.github.io/images/example_profiles.png" width="300" height="500"> This fkru swjwib owjkfjbhsueug rurjs hshwkf hhwwv jwr owof kwr kejf jejr
