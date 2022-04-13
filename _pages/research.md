@@ -26,7 +26,7 @@ Following these studies, we first consider a zonally uniform wind stress acting 
 
 <img src="http://yanxu-chen.github.io/images/equation.png" width="600" height="250">
 
-The video below shows Ekman pumping for three cases: <br />
+The video below shows Ekman pumping (or divergence of horizontal transport) for three cases: <br />
 a) upper panels that only consider advection 1; <br />
 b) middle panels that take into account both advections 1 and 2; <br />
 c) lower panels for a fully nonlinear result. <br />
@@ -38,10 +38,9 @@ c) lower panels for a fully nonlinear result. <br />
   </video>
 </body>
 
-This slab Ekman layer coupled with a two-layer shallow water model can be found in our paper: [Interaction of Nonlinear Ekman Pumping, Near-Inertial Oscillations, and Geostrophic Turbulence in an Idealized Coupled Model](https://yanxu-chen.github.io/publication/2021-03-01-Ekman)
+Accounting for a balanced curvilinear flow leads to counter-intuitive conclusions, e.g., that the Ekman transport need not to be everywhere perpendicular to the applied stress. In addition, our model allows for transients, as shown in the video. By adding the "real" nonlinear advection term (bottom panels), the signals of pumping are pushed southward. 
+
+A more complex system, i.e., this slab Ekman layer coupled with a two-layer shallow water model can be found in our paper: [Interaction of Nonlinear Ekman Pumping, Near-Inertial Oscillations, and Geostrophic Turbulence in an Idealized Coupled Model](https://yanxu-chen.github.io/publication/2021-03-01-Ekman)
 
   
-  We find that accounting for a balanced curvilinear flow leads to counter-intuitive conclusions, for example, that the transport need not be everywhere perpendicular to the applied stress. The zonal transport develops a quadrupole pattern, while the meridional transport diverges or converges instead of showing a steady pattern.  
 
-
-    In addition, our model allows for transients, as shown in the video. We figure out three sources of transients: a) to abruptly or slowly switch on the wind forcing; b) numeric factors; c) difference between cyclones and anticyclones. (details in my seminar presentation)
