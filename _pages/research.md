@@ -29,12 +29,12 @@ Following these studies, we first consider a uniform zonal wind stress acting on
 The video below 
 upper panels take into account only advection 1 term. The middle panels consider both advections 1 and 2. The lower panels result from an addition of the nonlinear term.
 
-  <body>
-    <video controls>
-      <source src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/media/Ekman.mp4" type="video/mp4">
-      <p>Your browser doesn't support HTML5 video. Here is a <a href="viper.mp4">link to the video</a> instead.</p> 
-    </video>
-  </body>
+<body>
+  <video controls>
+    <source src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/media/Ekman.mp4" type="video/mp4" width="500" height="800">
+    <p>Your browser doesn't support HTML5 video. Here is a <a href="viper.mp4">link to the video</a> instead.</p> 
+  </video>
+</body>
 
 
 
