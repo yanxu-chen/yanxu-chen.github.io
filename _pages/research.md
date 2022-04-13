@@ -17,16 +17,12 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 
 
-
-
 Nonlinear Ekman theory
 ======
 
-  <body>
-    <video controls>
-      <source src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/media/Ekman.mov" type="video/mov">
-      <p>Your browser doesn't support HTML5 video. Here is a <a href="viper.mov">link to the video</a> instead.</p> 
-    </video>
-  </body>
-  
+<video controls width="400" height="600">
+    <source src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/media/Ekman.mp4" type="video/mp4">
+    <p>Your browser doesn't support HTML5 video. Here is a <a href="Ekman.mp4">link to the video</a> instead.</p> 
+</video>
 
+  
