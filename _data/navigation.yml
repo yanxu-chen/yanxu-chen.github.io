@@ -10,8 +10,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Philosophy"
-    url: /philosophy/
+  #- title: "Philosophy"
+  #  url: /philosophy/
         
   - title: "Music"
     url: /music/
