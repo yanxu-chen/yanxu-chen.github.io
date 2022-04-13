@@ -143,9 +143,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-#  philosophy:
-#    output: true
-#    permalink: /:collection/:path/
+  philosophy:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -168,14 +168,14 @@ defaults:
       layout: single
       author_profile: true
   # _philosophy
-  #- scope:
-  #    path: ""
-  #    type: philosophy
-  #  values:
-  #    layout: single
-  #    author_profile: true
-  #    share: true
-  #    comments: true
+  - scope:
+      path: ""
+      type: philosophy
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
