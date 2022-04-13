@@ -20,23 +20,24 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 Nonlinear Ekman theory
 ======
 
-Classic Ekman theory applied to the ocean surface layer predicts a transport perpendicular to the wind stress and inversely proportional to the Coriolis frequency, *f*. A modification to this has that the transport is instead inversely proportional to the absolute vertical vorticity, *f+ζ* [(Stern, 1965)](https://doi.org/10.1016/0011-7471(65)90007-0). This modification has recently been extended to curvilinear currents by [Wenegrat and Thomas (2017)](https://doi.org/10.1175/JPO-D-16-0239.1).
+Classic Ekman theory applied to the ocean surface layer predicts a transport perpendicular to the wind stress and inversely proportional to the Coriolis frequency, *f*. A modification to this has that the transport is instead inversely proportional to the absolute vertical vorticity, *f+ζ* [(Stern, 1965)](https://doi.org/10.1016/0011-7471(65)90007-0). This modification has recently been extended to more complex curvilinear currents by [Wenegrat and Thomas (2017)](https://doi.org/10.1175/JPO-D-16-0239.1).
 
-Following these studies, we first consider a uniform zonal wind stress acting on an axisymmetric balanced eddy, namely, a cyclonic or anticyclonic vortex. The equation below lists the advection terms that we consider. Since a time-dependent term is retained in this Ekman equation, the need of shifting from Cartesian coordinate to curvilinear coordinate is eliminated. 
+Following these studies, we first consider a zonally uniform wind stress acting on an axisymmetric balanced eddy (either cyclonic or anticyclonic). The equation below describes several advection terms in consideration, where *u0* indicates the background velocity of the given vortex. Since a time-dependent term is retained in this Ekman equation, the need of shifting from Cartesian coordinate to a curvilinear coordinate is eliminated. 
 
 <img src="http://yanxu-chen.github.io/images/equation.png" width="600" height="250">
 
-The video below 
-upper panels take into account only advection 1 term. The middle panels consider both advections 1 and 2. The lower panels result from an addition of the nonlinear term.
+The video below shows Ekman pumping for three cases: 
+a) upper panels that only consider advection 1;
+b) middle panels that take into account both advections 1 and 2;
+c) lower panels for a fully nonlinear result. 
 
 <body>
   <video controls>
-    <source src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/media/Ekman.mp4" type="video/mp4" width="300" height="600">
+    <source src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/media/Ekman.mp4" type="video/mp4">
     <p>Your browser doesn't support HTML5 video. Here is a <a href="viper.mp4">link to the video</a> instead.</p> 
   </video>
 </body>
 
-
-
+This slab Ekman layer coupled with a two-layer shallow water model can be found in our paper: [Interaction of Nonlinear Ekman Pumping, Near-Inertial Oscillations, and Geostrophic Turbulence in an Idealized Coupled Model](https://yanxu-chen.github.io/publication/2021-03-01-Ekman)
 
   
