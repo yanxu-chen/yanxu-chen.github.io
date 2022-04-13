@@ -24,10 +24,16 @@ Classic Ekman theory applied to the ocean surface layer predicts a transport per
 
 Following these studies, we first consider a uniform zonal wind stress acting on an axisymmetric balanced eddy, namely, a cyclonic or anticyclonic vortex. The equation below lists the advection terms that we consider. Since a time-dependent term is retained in this Ekman equation, the need of shifting from Cartesian coordinate to curvilinear coordinate is eliminated. 
 
-<img src="http://yanxu-chen.github.io/images/equation.png" width="400" height="150">
+<img src="http://yanxu-chen.github.io/images/equation.png" width="500" height="200">
 
-<video controls width="400" height="600">
-    <source src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/media/Ekman.mp4" type="video/mp4"> The upper panels take into account only advection 1 term. The middle panels consider both advections 1 and 2. The lower panels result from an addition of the nonlinear term.
-</video>
+The video below 
+upper panels take into account only advection 1 term. The middle panels consider both advections 1 and 2. The lower panels result from an addition of the nonlinear term.
+
+caption1 | caption2
+:-: | :-:
+<video src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/media/Ekman.mp4" width=180/> | <video src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/media/Ekman.mp4" width=180/>
+
+
+
 
   
