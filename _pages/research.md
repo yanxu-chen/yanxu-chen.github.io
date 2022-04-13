@@ -19,6 +19,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 Nonlinear Ekman theory
 ======
+Classic Ekman theory applied to the ocean surface layer predicts a transport perpendicular to the wind stress and inversely proportional to the Coriolis frequency, &f. A modification to this has that the transport is instead inversely proportional to the absolute vertical vorticity, f+ζ (Stern, 1965). This modification has recently been extended to curvilinear currents by Wenegrat and Thomas (2017).
 
 <video controls width="400" height="600">
     <source src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/media/Ekman.mp4" type="video/mp4">
