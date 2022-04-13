@@ -21,3 +21,6 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 Nonlinear Ekman theory
 ======
+
+<video src="http://yanxu-chen.github.io/media/Ekman.mov" width="300" height="500">
+
