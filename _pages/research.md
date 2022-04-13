@@ -26,13 +26,10 @@ Following these studies, we first consider a zonally uniform wind stress acting 
 
 <img src="http://yanxu-chen.github.io/images/equation.png" width="600" height="250">
 
-The video below shows Ekman pumping for three cases: 
-
-a) upper panels that only consider advection 1;
-
-b) middle panels that take into account both advections 1 and 2;
-
-c) lower panels for a fully nonlinear result. 
+The video below shows Ekman pumping for three cases: <br />
+a) upper panels that only consider advection 1; <br />
+b) middle panels that take into account both advections 1 and 2; <br />
+c) lower panels for a fully nonlinear result. <br />
 
 <body>
   <video controls>
