@@ -31,7 +31,7 @@ upper panels take into account only advection 1 term. The middle panels consider
 
 <body>
   <video controls>
-    <source src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/media/Ekman.mp4" type="video/mp4" width="500" height="800">
+    <source src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/media/Ekman.mp4" type="video/mp4" width="400" height="700">
     <p>Your browser doesn't support HTML5 video. Here is a <a href="viper.mp4">link to the video</a> instead.</p> 
   </video>
 </body>
