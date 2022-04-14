@@ -15,7 +15,7 @@ Education
 ======
 * Ph.D in Dynamics and Physics of the Atmosphere and Ocean
   * Laboratoire de Météorologie Dynamique, Ecole Normale Supérieure, Paris 
-  * Advisors: Sabrina Speich and Laurent Bopp
+  * Advisor: Sabrina Speich
   * Graduation expected in summer 2022
 * M.Sc. in Atmospheric and Oceanic Sciences
   * Department of Atmospheric and Oceanic Sciences, McGill University, Montréal
@@ -29,7 +29,7 @@ Research experiences
 ======
 * Laboratoire de Météorologie Dynamique, Ecole Normale Supérieure, Paris (Dec 2018 until now)
   * Graduate student (research assistant)
-  * Advisors: Sabrina Speich and Laurent Bopp
+  * Advisor: Sabrina Speich
   * Research focus: The role of ocean mesoscale dynamics in the ocean heat and carbon uptake.
 
 * EUREC4A campagne R/V L'Atalante, south of Barbados (Jan-Feb 2020)
