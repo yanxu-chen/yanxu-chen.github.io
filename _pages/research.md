@@ -10,11 +10,18 @@ author_profile: true
 Mixed layer depth and mode water detection
 ======
 
-<img src="http://yanxu-chen.github.io/images/example_profiles.png" width="300" height="500"> This fkru swjwib owjkfjbhsueug rurjs hshwkf hhwwv jwr owof kwr kejf jejr
+Mode water is firstly introduced to describe the phenomenon of 18 Degree Water in the North Atlantic that repeatedly appears as a thick near-surface isothermal layer in winter. Extended to define water masses with nearly uniform properties over large volumes, mode waters are subsequently recognized and described in every ocean basin, mainly situated on the equatorward side of major mid-latitude ocean fronts. Commonly formed due to wintertime convection, these homogeneous water masses can be thought of as an intermediate state of fluid above the permanent thermocline that carry a memory of previous atmospheric forcing and a potential of reshaping the interior ocean stratification via subduction. 
 
+Thinking of the homogeneity of both surface mixed layer depths and mode waters in the interior, we have developed an algorithm to detect their presence from several profiling platforms. A brief intro can be found in our paper of the [South Atlantic Subtropical Mode Water](https://yanxu-chen.github.io/publication/2021-12-13-SASTMW). By co-locating these mode waters with satellite-deduced mesoscale eddy positions, it further allows for an evaluation of the role that eddies undertake in water mass ventilation and the associated heat content uptake. 
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<body>
+  <video controls>
+    <source src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/media/Agulhas_original.mp4" type="video/mp4">
+    <p>Your browser doesn't support HTML5 video. Here is a <a href="viper.mp4">link to the video</a> instead.</p> 
+  </video>
+</body>
 
+The video above depicts one trajectory of Agulhas Ring identified from satellite altimetry maps. The diamond markers locate the nearby Argo profiles that are associated with each eddy contour (blue for those at the center while green for those at the periphery). Before all else, we notice that such anticyclonic eddy can travel from the Indian Ocean to the South Brazil Current with more than 3 years to cross the entire South Atlantic. Mode waters thicker than 100 m are found along the trajectory from January to October 2015 (not shown here), which provides a proof of water mass subduction at the mesoscale. 
 
 
 Nonlinear Ekman theory
