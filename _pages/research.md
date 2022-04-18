@@ -16,7 +16,7 @@ Thinking of the homogeneity of both surface mixed layer depths and mode waters i
 
 <body>
   <video controls>
-    <source src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/media/Agulhas_original.mp4" type="video/mp4">
+    <source src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/media/Agulhas.mp4" type="video/mp4">
     <p>Your browser doesn't support HTML5 video. Here is a <a href="viper.mp4">link to the video</a> instead.</p> 
   </video>
 </body>
