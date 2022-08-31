@@ -24,6 +24,16 @@ Some pieces
       <p>Your browser doesn't support HTML5 audio. Here is a <a href="viper.mp3">link to the audio</a> instead.</p> 
     </audio>
   </body>
+
+* 忘憂 (Forgetting Sorrow)
+  * I don't like this translation...
+
+  <body>
+    <audio controls>
+      <source src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/media/Wangyou_2022.mp3" type="audio/mp3">
+      <p>Your browser doesn't support HTML5 audio. Here is a <a href="viper.mp3">link to the audio</a> instead.</p> 
+    </audio>
+  </body>
   
 * 關山月 (Moon over a Mountain Pass)
   * This short piece was composed after a poem of Li Bai (a romantic poet at the Tang Dynasty) that describes the emotions of soldiers at the frontier fortress by depicting such scenery.
