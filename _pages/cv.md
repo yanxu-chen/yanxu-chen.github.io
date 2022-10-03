@@ -27,7 +27,12 @@ Education
 
 Research experiences
 ======
-* Laboratoire de Météorologie Dynamique, Ecole Normale Supérieure, Paris (Dec 2018 until now)
+* Department of Physical Oceanography, Woods Hole Oceanographic Institution, Woods Hole (Sep 2022 until now)
+  * Postdoc investigator
+  * Advisor: Lisan Yu
+  * Research focus: The imprint of ocean mesoscale dynamics on air-sea momentum and buoyancy fluxes. 
+
+* Laboratoire de Météorologie Dynamique, Ecole Normale Supérieure, Paris (Dec 2018-Sep 2022)
   * Graduate student (research assistant)
   * Advisor: Sabrina Speich
   * Research focus: The role of ocean mesoscale dynamics in the ocean heat and carbon uptake.
