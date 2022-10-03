@@ -16,7 +16,7 @@ Education
 * Ph.D in Dynamics and Physics of the Atmosphere and Ocean
   * Laboratoire de Météorologie Dynamique, Ecole Normale Supérieure, Paris 
   * Advisor: Sabrina Speich
-  * Graduation expected in summer 2022
+  * Degree obtained in summer 2022
 * M.Sc. in Atmospheric and Oceanic Sciences
   * Department of Atmospheric and Oceanic Sciences, McGill University, Montréal
   * Advisors: David Straub and Louis-Philippe Nadeau
