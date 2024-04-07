@@ -9,7 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-I play Guqin on a daily basis, which is a seven-string Chinese instrument that has a history of about 3000 years. Traditionally, people play it outdoors in a mountain setting, a garden or a small pavilion. A serene moonlit night is considered an appropriate time for performance. 
+I play Guqin on a daily basis, which is a seven-string Chinese zither that has a history of about 3000 years. Traditionally, people play it outdoors in a mountain setting, a garden or a small pavilion. Guqin is a quiet instrument with no more than 4 octaves, and thus a serene moonlit night is considered an appropriate time for performance. You will also see it pretty much often in the Chinese ink brush paintings...
+
+
+<img src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/images/Guqin2.png" width="450" height="270">
+
+ddd
+
 
 <img src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/images/Guqin.png" width="450" height="270">
 
