@@ -11,7 +11,7 @@ redirect_from:
 
 I play Guqin on a daily basis, which is a seven-string Chinese zither that has a history of about 3000 years. Traditionally, people play it outdoors in a mountain setting, a garden or a small pavilion. This quiet instrument has no more than 4 octaves, and a serene moonlit night is often considered an appropriate time for performance. You will also see it pretty much often in the Chinese ink brush paintings...
 
-<img src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/images/Guqin2.png" width="500" height="280"><img src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/images/Guqin.png" width="430" height="240">
+<img src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/images/Guqin2.png" width="500" height="280"><img src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/images/Guqin.png" width="420" height="240">
 
 Some pieces
 ======  
