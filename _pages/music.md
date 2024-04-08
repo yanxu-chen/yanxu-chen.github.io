@@ -13,7 +13,7 @@ I play Guqin on a daily basis, which is a seven-string Chinese zither that has a
 
 <img src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/images/Guqin2.png" width="500" height="280"><img src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/images/Guqin.png" width="420" height="240">
 
-Some pieces
+Some recorded pieces
 ======  
 * 酒狂 (Drunken Ecstasy)
   * Not sure about the translation of such name, but I like it. Sometimes we make jokes that from a player's music, you will know what alcohol he/she drank. 
@@ -25,8 +25,7 @@ Some pieces
     </audio>
   </body>
 
-* 忘憂 (Forgetting Sorrow)
-  * I don't like this translation...
+* 忘憂 (Escape from Oneself)
 
   <body>
     <audio controls>
