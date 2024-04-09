@@ -23,7 +23,16 @@ Some recorded pieces
       <p>Your browser doesn't support HTML5 audio. Here is a <a href="viper.mp3">link to the audio</a> instead.</p> 
     </audio>
   </body>
-  
+
+* 神人暢 (Rhapsody on a Celestial)
+
+  <body>
+    <audio controls>
+      <source src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/media/Shenrenchang_2023.mp3" type="audio/mp3">
+      <p>Your browser doesn't support HTML5 audio. Here is a <a href="viper.mp3">link to the audio</a> instead.</p> 
+    </audio>
+  </body>
+
 * 酒狂 (Drunken Ecstasy)
   * Not sure about the translation of such name, but I like it. Sometimes we make jokes that from a player's music, you will know what alcohol he/she drank. 
 
