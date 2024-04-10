@@ -27,7 +27,7 @@ Some recorded pieces
   </body>
 
 * 神人暢 (Rhapsody on a Celestial)
-  * This work was recorded with an instrument manufactured in Ming Dynasty (~1500 AD) with silk strings in the countryside of France.
+  * This work was recorded in the countryside of France using an instrument manufactured in Ming Dynasty (~1500 AD) with silk strings.
     
   <body>
     <audio controls>
