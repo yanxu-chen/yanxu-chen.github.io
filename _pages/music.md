@@ -41,6 +41,15 @@ Some recorded pieces
       <p>Your browser doesn't support HTML5 audio. Here is a <a href="viper.mp3">link to the audio</a> instead.</p> 
     </audio>
   </body>
+
+* 白雪 (White Snow)
+
+  <body>
+    <audio controls>
+      <source src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/media/Baixue_2024.mp3" type="audio/mp3">
+      <p>Your browser doesn't support HTML5 audio. Here is a <a href="viper.mp3">link to the audio</a> instead.</p> 
+    </audio>
+  </body>
   
 * 酒狂 (Drunken Ecstasy)
   * Not sure about the translation of such name, but I like it. Sometimes we make jokes that from a player's music, you will know what alcohol he/she drank. 
@@ -62,7 +71,6 @@ Some recorded pieces
   </body>
   
 * 關山月 (Moon over a Mountain Pass)
-  * This short piece was composed after a poem of Li Bai (a romantic poet at the Tang Dynasty) that describes the emotions of soldiers at the frontier fortress by depicting such scenery.
 
   <body>
     <audio controls>
