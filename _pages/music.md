@@ -35,7 +35,7 @@ Some recorded pieces
       <p>Your browser doesn't support HTML5 audio. Here is a <a href="viper.mp3">link to the audio</a> instead.</p> 
     </audio>
   </body>
-
+  
 * 欸乃 (Melody of the Fisherman's Song)
 
   <body>
@@ -45,6 +45,16 @@ Some recorded pieces
     </audio>
   </body>
 
+* 離騷 (The Lament)
+  * This piece was composed in late Tang Dynasty based on a poem with the same title authored by Qu Yuan (~300 BC). In short, I interpret this poem as his shamanistic imaginary journeys to escape from societal politics. 
+
+  <body>
+    <audio controls>
+      <source src="https://github.com/yanxu-chen/yanxu-chen.github.io/raw/master/media/Lisao_2023.mp3" type="audio/mp3">
+      <p>Your browser doesn't support HTML5 audio. Here is a <a href="viper.mp3">link to the audio</a> instead.</p> 
+    </audio>
+  </body>
+  
 * 白雪 (White Snow)
 
   <body>
