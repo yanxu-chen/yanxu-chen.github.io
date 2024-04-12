@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Dynamics and Physics of the Atmosphere and Ocean
-  * Laboratoire de Météorologie Dynamique, Ecole Normale Supérieure, Paris 
+  * Laboratoire de Météorologie Dynamique, École Normale Supérieure, Paris 
   * Advisor: Sabrina Speich
   * Degree obtained in summer 2022
 * M.Sc. in Atmospheric and Oceanic Sciences
@@ -32,7 +32,7 @@ Research experiences
   * Advisor: Lisan Yu
   * Research focus: The imprint of ocean mesoscale dynamics on air-sea momentum and buoyancy fluxes. 
 
-* Laboratoire de Météorologie Dynamique, Ecole Normale Supérieure, Paris (Dec 2018-Sep 2022)
+* Laboratoire de Météorologie Dynamique, École Normale Supérieure, Paris (Dec 2018-Sep 2022)
   * Graduate student (research assistant)
   * Advisor: Sabrina Speich
   * Research focus: The role of ocean mesoscale dynamics in the ocean heat and carbon uptake.
