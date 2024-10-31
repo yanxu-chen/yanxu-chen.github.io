@@ -15,6 +15,8 @@ I play Guqin on a daily basis, which is a seven-string Chinese zither that has a
 
 I guess it is true that every string instrument player is interested in music theory, as this is a tradition dating back to Pythagoras who used strings to support his idea that the planets move according to numbers and thus resonate to produce a symphony of music. Traditionally, Guqin employs a distinct and intricate system of musical temperament, diverging from the globally accepted equal temperament and aligning more closely with just intonation, thereby avoiding disharmony. As an intuitionist, I also agree that any musical scales describe a community/relation of tones and therefore the pitches in music are relative, not absolute. Recently, I have developed a computer program for Guqin to calculate the finger positions of each tone, given the musical modes or scales that the composers might need for writing pieces. Intuitively, this endeavor parallels adding frets to a guitar! Please do not hesitate to reach out if you are interested in using it for composition. 
 
+Unlike science, my passion for music does not embed a reason. Here’s a quote from L. Wittgenstein that captures this sentiment: "Once I have exhausted the justification, I have reached bedrock, and my spade is turned. Then I am inclined to say: This is simply what I do." 
+
 Some recorded pieces
 ======  
 * 流水 (Flowing Water)
