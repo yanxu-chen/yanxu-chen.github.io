@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download the full version here](http://yanxu-chen.github.io/files/CV_Yanxu_Chen_Mar2025.pdf)
+[Download the full version here](http://yanxu-chen.github.io/files/CV_Yanxu_Chen_Apr2025.pdf)
 
 Education
 ======
