@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download the full version here](http://yanxu-chen.github.io/files/CV_Yanxu_Chen_June2025.pdf)
+[Download the full version here](http://yanxu-chen.github.io/files/CV_Yanxu_Chen_Sep2025.pdf)
 
 Education
 ======
@@ -29,7 +29,7 @@ Research experiences
 ======
 * Department of Physical Oceanography, Woods Hole Oceanographic Institution, Woods Hole (Sep 2022 until now)
   * Postdoc investigator
-  * Advisors: Lisan Yu and Viviane Menezes
+  * Advisors: Viviane Menezes and Lisan Yu
   * Research focus: The imprint of ocean mesoscale dynamics on air-sea momentum and buoyancy fluxes. 
 
 * Laboratoire de Météorologie Dynamique, École Normale Supérieure, Paris (Dec 2018-Sep 2022)
